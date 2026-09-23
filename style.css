@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(189, 77, 77);
+
+}
+.logo {
+    margin-top: 20px;
+    text-align: center;
+}
+.siur {
+    text-align: center;
+    margin-top: 0px;
+    padding: 10px;
+    
+}
+.nig {
+    font-size: 30px;
+    border: 7px solid rgb(29, 0, 95);
+    border-radius: 10px;
+    background-color: rgb(162, 0, 255);
+}
+
+
+.p1 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+}   
+.where {
+    font-size: 20px;
+    text-align: center;
+    
+}
+.q {
+    padding: 40px 0px;
+    text-decoration-line: none;
+
+}
+.s {
+    text-decoration: none;
+}
+.w {
+    
+    color: black;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    background-color: rgb(36, 157, 226);
+    padding: 10px 50px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
